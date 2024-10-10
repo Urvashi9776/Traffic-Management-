@@ -82,9 +82,6 @@ View a real-time stream with:
 - **Object Count**: A real-time counter displaying the number of detected objects.
 - **Speed Estimation**: Estimated speed (in km/h) displayed for each moving vehicle.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif" width="600">
-</p>
 
 ---
 
