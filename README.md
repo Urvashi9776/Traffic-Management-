@@ -4,9 +4,6 @@
 
 Welcome to the **Traffic Management System**, where computer vision meets traffic control! This project utilizes advanced deep learning techniques to detect and track vehicles, pedestrians, and cyclists for better traffic monitoring and management. Powered by **YOLOv8**, this system ensures real-time traffic analysis and safety on the road.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/2hScy3AUE8QfjYKaFi/giphy.gif" width="600">
-</p>
 
 ## 🌟 Features
 
